@@ -101,10 +101,10 @@
         border-radius: 0px;
     }
 
-
+  /* image index */
     #home{
         height: 70vh;
-        background-image: url("assets/img/sbtbsimg.png");
+        background-image: url("assets/img/4.avif");
         background-size: cover;
         background-position: 0% 65%;;
         position: relative;
