@@ -1,45 +1,32 @@
-## Alias 
-Create or display Terminal aliases
-  
-**Signature:**
+## Bus Booking Management
+
+Protorype for management website
+
+## Req
 
   
-```typescript
+- PHP: 
+- Visual studio code : or some thing if u want
+- Xampp : 'database'
 
-alias [-g] [name="value"]
+## Guild
 
-```
-
-  
-
-## Parameters
-
-  
-- `alias`: Command to set or display aliases.
-- `[-g]`: Set to global.
-- `name`: The name of the alias you want to create or display.
-- `["value"]`: The value to assign to the alias. 
+1.install xampp and start apahe and sql
+2.go to file htdoc in folder xampp
+3.pick up ur project in to htdoc
+4.go to localhost/BusBookingManagement
+5.Enjoy
 
 
 
-**Example:**
+**Feedback:**
 
-  
-```typescript
+If u have idea or bug u can contract me ypukung@gmail.com
 
-alias -g name="n00dles"
+date update
+3/6/2024 
 
-```
 
-  
-
-**Result:**
-
-```Terminal
-
-Set global alias name="n00dles"
-
-```
 
 
   
@@ -47,3 +34,4 @@ Set global alias name="n00dles"
 
 
   
+
