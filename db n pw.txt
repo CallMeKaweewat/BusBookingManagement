@@ -1,0 +1,15 @@
+
+Database Name: sbtbsphp
+server : Xampp
+acc login
+
+Username: admin
+Password: Password@123
+
+Username: Kaweewat
+Password: 12345678
+
+1. เปิดserver ในxampp import database "sbtbsphp"
+2.เอาไฟล์codeใส่ในไฟล์ htdoc ของ xampp
+3. go to http://localhost/BusBookingManagement
+
